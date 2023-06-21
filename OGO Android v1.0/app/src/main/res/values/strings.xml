@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name"> Bie </string>
+    <string name="api_key">NTMxYjc5MDUtM2I4YS00NWQ2LTg4MGUtZWJiNmRiMWE0Y2Q2</string>
+
+    <string name="continues">Continue</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="enter_your_phone">Enter your phone number</string>
+    <string name="password">Password</string>
+    <string name="sms_code">SMS Code</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="by_clicking_sing_in"> <font color="#010101">By Clicking Sign in you certify that you agree to our </font>\n  <font color="#0C0C0C">Privacy policy </font>and <font color="#0C0C0C">Terms and condition</font></string>
+    <string name="old_user_register"><font color="#010101">Already have an account?</font> <font color="#0C0C0C">Sing In</font></string>
+    <string name="sing_up">Sign Up</string>
+    <string name="referral_code_optional">Referral Code(optional)</string>
+    <string name="order">Book Trip</string>
+    <string name="cancel">Cancel</string>
+    <string name="detail">DETAILS</string>
+    <string name="account_setting">Account setting</string>
+    <string name="profile_information">Profile information</string>
+    <string name="change_your_account_information">Change your account information</string>
+    <string name="trip_history">Trip history</string>
+    <string name="view_your_trip_history">View your trip history</string>
+    <string name="notification">Notification</string>
+    <string name="managing_notification">Managing notification</string>
+    <string name="refer_to_friends">Refer to friends</string>
+    <string name="invite_your_friends">Invite your friends</string>
+    <string name="rates_us">Rates Us</string>
+    <string name="rate_out_app_in_play_store">Rate out app in play store</string>
+    <string name="logout">Logout</string>
+    <string name="your_account_details">Your account details</string>
+    <string name="update">Update</string>
+    <string name="not_available">Not Available</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="your_tripes">Your Tripes</string>
+    <string name="your_rated">Your rated</string>
+    <string name="bill_details">Bill Details</string>
+    <string name="your_trip">Your Trip</string>
+    <string name="coupon">Coupon</string>
+    <string name="wallet">Wallet</string>
+    <string name="total_payable">Total Payable</string>
+    <string name="payment">Payment</string>
+    <string name="review">Review</string>
+    <string name="how_was_your_trip">How was your trip ?</string>
+    <string name="share">Share</string>
+    <string name="help_amp_support"><![CDATA[Help & Support]]></string>
+    <string name="search_for_an_address_or_landmark">Search for an address or landmark</string>
+    <string name="enter_destination">Enter destination</string>
+    <string name="pick_up">Pick-up</string>
+    <string name="your_address">Your address</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="welcome_friend_enter_your_details_so_lat_get_started_in_booking_taxi">Welcome friend enter your details so let get started in booking taxi</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="total">Total</string>
+    <string name="itemtotal">Total</string>
+    <string name="save">iSave</string>
+    <string name="chosecar">Chose car</string>
+    <string name="getstarted">Get Started</string>
+    <string name="one_a">Find the ride you want</string>
+    <string name="one_b">We’ve established a Door-to-Door Safety Standard to help you feel safe every time</string>
+    <string name="two_a">Request a trip anywhere, anytime</string>
+    <string name="two_b">We make sure our drivers get to keep more of the fare and we provide great offers</string>
+    <string name="three_a">Meet OGO, the safe and Affordable</string>
+    <string name="three_b">This app makes the taxi booking process more transparent and gives you the power</string>
+    <string name="search_destination">Search Destination</string>
+    <string name="faq">FAQ</string>
+
+
+</resources>

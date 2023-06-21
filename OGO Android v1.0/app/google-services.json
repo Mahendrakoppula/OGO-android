@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781910712656",
+    "project_id": "customerogo",
+    "storage_bucket": "customerogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781910712656:android:04e59cee8896259ce58c55",
+        "android_client_info": {
+          "package_name": "com.customerogo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781910712656-d0778kug39kdo8jqlhsn93kbjead87vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mnS1loFRCLQSuFDHYsUgbOGp9aezK4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781910712656-d0778kug39kdo8jqlhsn93kbjead87vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

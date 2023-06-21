@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">حجز سيارات الأجرة</string>
+    <string name="api_key">AIzaSyB8-ypkZ-83OMzbMUGrJWa2v-XBIqQWHdo</string>
+
+    <string name="continues">يكمل</string>
+    <string name="create_an_account">انشئ حساب</string>
+    <string name="enter_your_phone">أدخل هاتفك</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sms_code">رمز الرسائل القصيرة</string>
+    <string name="mobile">رقم الهاتف المحمول</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="sing_up">اشتراك</string>
+    <string name="referral_code_optional">إحالة قانون (اختياري)</string>
+    <string name="order">احجز رحلة</string>
+    <string name="cancel">يلغي</string>
+    <string name="detail">التفاصيل</string>
+    <string name="account_setting">إعدادات الحساب</string>
+    <string name="profile_information">معلومات الملف الشخصي</string>
+    <string name="change_your_account_information">قم بتغيير معلومات حسابك</string>
+    <string name="trip_history">تاريخ الرحلة</string>
+    <string name="view_your_trip_history">عرض تاريخ رحلتك</string>
+    <string name="notification">إشعار</string>
+    <string name="managing_notification">إدارة الإخطار</string>
+    <string name="refer_to_friends">قم بالإشارة إلى الأصدقاء</string>
+    <string name="invite_your_friends">اعزم أصحابك</string>
+    <string name="rates_us">أسعار بنا</string>
+    <string name="rate_out_app_in_play_store">قيم التطبيق في متجر اللعب</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="your_account_details">تفاصيل حسابك</string>
+    <string name="update">تحديث</string>
+    <string name="not_available">غير متوفر</string>
+    <string name="my_wallet">محفظتى</string>
+    <string name="your_tripes">رحلاتك</string>
+    <string name="your_rated">تصنيفك</string>
+    <string name="bill_details">تفاصيل الفاتورة</string>
+    <string name="your_trip">رحلتك</string>
+    <string name="coupon">قسيمة</string>
+    <string name="wallet">محفظة</string>
+    <string name="total_payable">إجمالي المدفوعات</string>
+    <string name="payment">قسط</string>
+    <string name="review">إعادة النظر</string>
+    <string name="how_was_your_trip">كيف كانت رحلتك ؟</string>
+    <string name="share">يشارك</string>
+    <string name="help_amp_support">ساعد لدعم</string>
+    <string name="search_for_an_address_or_landmark">ابحث عن عنوان أو معلم</string>
+    <string name="enter_destination">أدخل الوجهة</string>
+    <string name="pick_up">يلتقط</string>
+    <string name="your_address">عنوانك</string>
+    <string name="forgot_password">هل نسيت كلمة السر</string>
+    <string name="or">أو</string>
+    <string name="welcome_friend_enter_your_details_so_lat_get_started_in_booking_taxi">مرحبًا يا صديق أدخل التفاصيل الخاصة بك حتى تبدأ في حجز سيارة أجرة</string>
+    <string name="apply_coupon">تطبيق القسيمة</string>
+    <string name="recommended_for_you">موصى به لك</string>
+    <string name="total">مجموع</string>
+    <string name="itemtotal">مجموع الاشياء</string>
+    <string name="save">iSave</string>
+    <string name="chosecar">اختار السيارة</string>
+    <string name="getstarted">البدء</string>
+    <string name="one_a">ابحث عن المشوار الذي تريده</string>
+    <string name="one_b">لقد وضعنا معيار أمان من الباب إلى الباب لمساعدتك على الشعور بالأمان في كل مرة</string>
+    <string name="two_a">اطلب رحلة في أي مكان وفي أي وقت</string>
+    <string name="two_b">نتأكد من أن السائقين لدينا سيحتفظون بالمزيد من الأجرة ونقدم عروضًا رائعة</string>
+    <string name="three_a">تعرف على OGO ، الآمن وبأسعار معقولة</string>
+    <string name="three_b">يجعل هذا التطبيق عملية حجز سيارات الأجرة أكثر شفافية ويمنحك القوة</string>
+
+    <string name="by_clicking_sing_in"> <font color="#010101">بالنقر فوق تسجيل الدخول ، فإنك تقر بموافقتك على </font>\n  <font color="#0C0C0C">سياسة الخصوصية </font>و <font color="#0C0C0C">أحكام وشروط</font></string>
+    <string name="old_user_register"><font color="#010101">هل لديك حساب؟</font> <font color="#0C0C0C">تسجيل الدخول</font></string>
+    <string name="search_destination">وجهة البحث</string>
+    <string name="faq">التعليمات</string>
+</resources>

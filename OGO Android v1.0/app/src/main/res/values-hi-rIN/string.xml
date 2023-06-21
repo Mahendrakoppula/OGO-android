@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">OGO TaxiBooking</string>
+    <string name="api_key">AIzaSyB8-ypkZ-83OMzbMUGrJWa2v-XBIqQWHdo</string>
+
+    <string name="continues">जारी रखना</string>
+    <string name="create_an_account">खाता बनाएं</string>
+    <string name="enter_your_phone">अपना फ़ोन दर्ज करें</string>
+    <string name="password">कुंजिका</string>
+    <string name="sms_code">एसएमएस कोड</string>
+    <string name="mobile">मोबाइल नंबर</string>
+    <string name="first_name">पहला नाम</string>
+    <string name="last_name">उपनाम</string>
+    <string name="email">ईमेल</string>
+    <string name="by_clicking_sing_in"> <font color="#010101">साइन इन पर क्लिक करके आप प्रमाणित करते हैं कि आप हमारे से सहमत हैं </font>\n  <font color="#0C0C0C">गोपनीयता नीति </font>और <font color="#0C0C0C">नियम व शर्तें</font></string>
+    <string name="old_user_register"><font color="#010101">क्या आपके पास पहले से एक खाता मौजूद है?</font> <font color="#0C0C0C">साइन इन करें</font></string>
+    <string name="sing_up">साइन अप करें</string>
+    <string name="referral_code_optional">रेफरल कोड (वैकल्पिक)</string>
+    <string name="order">बुक ट्रिप</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="detail">विवरण</string>
+    <string name="account_setting">खाता सेटिंग</string>
+    <string name="profile_information">प्रोफाइल की जानकारी</string>
+    <string name="change_your_account_information">अपनी खाता जानकारी बदलें</string>
+    <string name="trip_history">यात्रा इतिहास</string>
+    <string name="view_your_trip_history">अपना यात्रा इतिहास देखें</string>
+    <string name="notification">अधिसूचना</string>
+    <string name="managing_notification">सूचना प्रबंधन</string>
+    <string name="refer_to_friends">मित्रों का संदर्भ लें</string>
+    <string name="invite_your_friends">अपने दोस्तों को आमंत्रित करो</string>
+    <string name="rates_us">हमें रेट करें</string>
+    <string name="rate_out_app_in_play_store">प्ले स्टोर में ऐप को रेट आउट करें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="your_account_details">आपका खाता विवरण</string>
+    <string name="update">अपडेट करना</string>
+    <string name="not_available">नहीं मिलता है</string>
+    <string name="my_wallet">मेरा बटुआ</string>
+    <string name="your_tripes">आपकी यात्राएं</string>
+    <string name="your_rated">आपका रेटेड</string>
+    <string name="bill_details">बिल विवरण</string>
+    <string name="your_trip">तुमहारी यात्रा</string>
+    <string name="coupon">कूपन</string>
+    <string name="wallet">बटुआ</string>
+    <string name="total_payable">कुल देय</string>
+    <string name="payment">भुगतान</string>
+    <string name="review">समीक्षा</string>
+    <string name="how_was_your_trip">आपकी यात्रा कैसी थी ?</string>
+    <string name="share">शेयर करना</string>
+    <string name="help_amp_support">मदद समर्थन</string>
+    <string name="search_for_an_address_or_landmark">कोई पता या लैंडमार्क खोजें</string>
+    <string name="enter_destination">गंतव्य दर्ज करें</string>
+    <string name="pick_up">उठाना</string>
+    <string name="your_address">तुम्हारा पता</string>
+    <string name="forgot_password">पासवर्ड भूल गए</string>
+    <string name="or">या</string>
+    <string name="welcome_friend_enter_your_details_so_lat_get_started_in_booking_taxi">आपका स्वागत है मित्र अपना विवरण दर्ज करें ताकि देर से बुकिंग टैक्सी में शुरू हो जाए</string>
+    <string name="apply_coupon">कूपन लगाइये</string>
+    <string name="recommended_for_you">आप के लिए अनुशंसित</string>
+    <string name="total">कुल</string>
+    <string name="itemtotal">कुल वस्तुएँ</string>
+    <string name="save">बचाना</string>
+    <string name="chosecar">कार चुनें</string>
+    <string name="getstarted">शुरू हो जाओ</string>
+
+    <string name="one_a">अपनी पसंद की राइड ढूंढें</string>
+    <string name="one_b">हमने आपको हर बार सुरक्षित महसूस करने में मदद करने के लिए घर-घर सुरक्षा मानक स्थापित किया है</string>
+    <string name="two_a">कहीं भी, कभी भी यात्रा का अनुरोध करें</string>
+    <string name="two_b">हम यह सुनिश्चित करते हैं कि हमारे ड्राइवरों को अधिक किराया मिले और हम शानदार ऑफर प्रदान करें</string>
+    <string name="three_a">OGO से मिलिए, सुरक्षित और किफ़ायती</string>
+    <string name="three_b">यह ऐप टैक्सी बुकिंग प्रक्रिया को अधिक पारदर्शी बनाता है और आपको शक्ति प्रदान करता है</string>
+
+    <string name="search_destination">खोज गंतव्य</string>
+    <string name="faq">सामान्य प्रश्न</string>
+</resources>

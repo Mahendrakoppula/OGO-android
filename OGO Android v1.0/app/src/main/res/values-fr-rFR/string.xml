@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Réservation de taxis</string>
+    <string name="api_key">AIzaSyB8-ypkZ-83OMzbMUGrJWa2v-XBIqQWHdo</string>
+
+    <string name="continues">Continuer</string>
+    <string name="create_an_account">Créer un compte</string>
+    <string name="enter_your_phone">Entrez votre téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="sms_code">Code SMS</string>
+    <string name="mobile">Numéro de portable</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="email">E-mail</string>
+    <string name="sing_up">S inscrire</string>
+    <string name="referral_code_optional">Code de parrainage (facultatif)</string>
+    <string name="order">Réserver un voyage</string>
+    <string name="cancel">Annuler</string>
+    <string name="detail">Détail</string>
+    <string name="account_setting">Paramètre du compte</string>
+    <string name="profile_information">Informations sur le profil</string>
+    <string name="change_your_account_information">Modifier les informations de votre compte</string>
+    <string name="trip_history">Historique des trajets</string>
+    <string name="view_your_trip_history">Afficher l historique de vos trajets</string>
+    <string name="notification">Notification</string>
+    <string name="managing_notification">Gestion des notifications</string>
+    <string name="refer_to_friends">Référez-vous à des amis</string>
+    <string name="invite_your_friends">Invite tes amis</string>
+    <string name="rates_us">Nous évaluer</string>
+    <string name="rate_out_app_in_play_store">Évaluer l application dans le Play Store</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="your_account_details">Détails de votre compte</string>
+    <string name="update">Mise à jour</string>
+    <string name="not_available">Pas disponible</string>
+    <string name="my_wallet">Mon portefeuille</string>
+    <string name="your_tripes">Vos tripes</string>
+    <string name="your_rated">Votre note</string>
+    <string name="bill_details">Détails de la facture</string>
+    <string name="your_trip">Ton voyage</string>
+    <string name="coupon">Coupon</string>
+    <string name="wallet">Portefeuille</string>
+    <string name="total_payable">Total à payer</string>
+    <string name="payment">Paiement</string>
+    <string name="review">Passer en revue</string>
+    <string name="how_was_your_trip">Comment était votre voyage ?</string>
+    <string name="share">Partager</string>
+    <string name="help_amp_support"><![CDATA[Aide et assistance]]></string>
+    <string name="search_for_an_address_or_landmark">Rechercher une adresse ou un point de repère</string>
+    <string name="enter_destination">Entrez la destination</string>
+    <string name="pick_up">Ramasser</string>
+    <string name="your_address">Votre adresse</string>
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="or">OU ALORS</string>
+    <string name="welcome_friend_enter_your_details_so_lat_get_started_in_booking_taxi">Bienvenue ami entrez vos coordonnées afin de commencer à réserver un taxi</string>
+    <string name="apply_coupon">Appliquer Coupon</string>
+    <string name="recommended_for_you">Recommandé pour vous</string>
+    <string name="total">Total</string>
+    <string name="itemtotal">Objet total</string>
+    <string name="save">Je sauvegarde</string>
+    <string name="chosecar">Choisissez la voiture</string>
+    <string name="getstarted">Commencer</string>
+    <string name="one_a">Trouvez le trajet que vous voulez</string>
+    <string name="one_b">Nous avons établi une norme de sécurité porte-à-porte pour vous aider à vous sentir en sécurité à chaque fois</string>
+    <string name="two_a">Demandez un voyage n importe où, n importe quand</string>
+    <string name="two_b">Nous veillons à ce que nos chauffeurs conservent une plus grande partie du tarif et nous proposons des offres intéressantes</string>
+    <string name="three_a">Rencontrez OGO, le coffre-fort et abordable</string>
+    <string name="three_b">Cette application rend le processus de réservation de taxi plus transparent et vous donne le pouvoir</string>
+
+    <string name="by_clicking_sing_in"> <font color="#010101">En cliquant sur Se connecter, vous certifiez que vous acceptez nos </font>\n  <font color="#0C0C0C">Politique de confidentialité </font>et <font color="#0C0C0C">Termes et conditions</font></string>
+    <string name="old_user_register"><font color="#010101">Vous avez déjà un compte?</font> <font color="#0C0C0C">S identifier</font></string>
+    <string name="search_destination">Destination de recherche</string>
+    <string name="faq">FAQ</string>
+</resources>
